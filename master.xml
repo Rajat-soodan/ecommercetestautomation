@@ -6,10 +6,12 @@
         <parameter name="os" value="Windows"/>
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="testCases.TC_001_Account_Registration"/>
+<!--            <class name="testCases.TC_001_Account_Registration"/>-->
 <!--            <class name="testCases.TC_002_LoginTest"/>  &ndash;&gt;-->
 <!--            <class name="testCases.TC_003_LoginDDT"/>-->
 <!--            <class name="testCases.TC_004_CheckPcStock"/>-->
+<!--                <class name="testCases.Tc_005_CheckMacStock"/>-->
+                <class name="testCases.TC_006_AddingToCart"/>
         </classes>
     </test>
     <!--  Test  -->

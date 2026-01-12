@@ -39,3 +39,52 @@
 2026-01-12 20:22:08 INFO  TC_001_Account_Registration:39 - clicking on submit button
 2026-01-12 20:22:09 INFO  TC_001_Account_Registration:43 - collecting the confirmation message
 2026-01-12 20:22:09 INFO  TC_001_Account_Registration:51 - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-12 22:43:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2026-01-12 22:43:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 22:43:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 22:43:55 INFO  Tc_005_CheckMacStock:13 - Starting testcase execution
+2026-01-12 22:43:55 INFO  Tc_005_CheckMacStock:14 - Capturing debug logs
+2026-01-12 22:46:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2026-01-12 22:58:15 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 22:58:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 22:58:21 INFO  Tc_005_CheckMacStock:13 - Starting testcase execution
+2026-01-12 22:58:21 INFO  Tc_005_CheckMacStock:14 - Capturing debug logs
+2026-01-12 23:00:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2026-01-12 23:01:06 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 23:01:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 23:01:11 INFO  Tc_005_CheckMacStock:13 - Starting testcase execution
+2026-01-12 23:01:11 INFO  Tc_005_CheckMacStock:14 - Capturing debug logs
+2026-01-12 23:08:21 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 23:08:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 23:08:26 INFO  Tc_005_CheckMacStock:13 - Starting testcase execution
+2026-01-12 23:08:26 INFO  Tc_005_CheckMacStock:14 - Capturing debug logs
+2026-01-12 23:09:22 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 23:09:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 23:09:27 INFO  Tc_005_CheckMacStock:13 - Starting testcase execution
+2026-01-12 23:09:27 INFO  Tc_005_CheckMacStock:14 - Capturing debug logs
+2026-01-12 23:09:30 INFO  Tc_005_CheckMacStock:39 - Testcase execution is completed
+2026-01-12 23:43:16 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 23:43:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 23:45:02 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 23:45:02 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 23:45:12 INFO  TC_006_AddingToCart:49 - Testcase execution is completed
