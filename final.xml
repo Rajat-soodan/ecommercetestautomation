@@ -1,0 +1,24 @@
+<suite name="Suite">
+<!--    <groups>-->
+<!--        <run>-->
+<!--&lt;!&ndash;            <include name="sanity"/>&ndash;&gt;-->
+<!--&lt;!&ndash;            <include name="regression"/>&ndash;&gt;-->
+<!--            <include name="master" />  -->
+<!--            &lt;!&ndash;  <exclude name="" />  &ndash;&gt;-->
+<!--        </run>-->
+<!--    </groups>-->
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test thread-count="5" name="Test">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_Account_Registration"/>
+            <class name="testCases.TC_002_LoginTest"/>
+            <!--  <class name="testCases.TC_003_LoginDDT"/>  -->
+        </classes>
+    </test>
+    <!--  Test  -->
+</suite>
+        <!--  Suite  -->

@@ -1,0 +1,41 @@
+2026-01-12 12:48:06 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\rajat.soodan\IdeaProjects\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 12:48:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rajat.soodan\IdeaProjects\ecommerceautomation\master.xml
+
+2026-01-12 12:48:15 INFO  TC_001_Account_Registration:12 - Starting testcase execution
+2026-01-12 12:48:15 INFO  TC_001_Account_Registration:17 - clicking on my account
+2026-01-12 12:48:16 INFO  TC_001_Account_Registration:23 - Providing customers details
+2026-01-12 12:48:17 INFO  TC_001_Account_Registration:36 - Validating expected emssages...
+2026-01-12 12:48:17 INFO  TC_001_Account_Registration:39 - clicking on submit button
+2026-01-12 12:48:19 INFO  TC_001_Account_Registration:43 - collecting the confirmation message
+2026-01-12 12:48:19 INFO  TC_001_Account_Registration:51 - ***** Finished TC001_AccountRegistrationTest *****
+2026-01-12 12:48:23 INFO  TC_002_LoginTest:13 - Starting test case execution
+2026-01-12 12:48:23 INFO  TC_002_LoginTest:18 - clicked on my account link
+2026-01-12 12:48:24 INFO  TC_002_LoginTest:20 - Clicking on login under my accunts
+2026-01-12 12:48:24 INFO  TC_002_LoginTest:24 - Entering valid email and password
+2026-01-12 12:48:24 INFO  TC_002_LoginTest:26 - Entered email id
+2026-01-12 12:48:24 INFO  TC_002_LoginTest:28 - Entered Password
+2026-01-12 12:48:25 INFO  TC_002_LoginTest:30 - Clicked on the login button
+2026-01-12 12:48:26 INFO  TC_002_LoginTest:42 - Test case execution is completed
+2026-01-12 12:48:32 INFO  TC_003_LoginDDT:23 - Starting testcase execution
+2026-01-12 12:48:39 INFO  TC_003_LoginDDT:23 - Starting testcase execution
+2026-01-12 12:48:42 INFO  TC_003_LoginDDT:23 - Starting testcase execution
+2026-01-12 12:48:45 INFO  TC_003_LoginDDT:23 - Starting testcase execution
+2026-01-12 12:48:51 INFO  TC_003_LoginDDT:60 - Test case execution completed
+2026-01-12 12:48:51 INFO  TC_003_LoginDDT:23 - Starting testcase execution
+2026-01-12 12:48:54 INFO  TC_003_LoginDDT:60 - Test case execution completed
+2026-01-12 12:48:58 INFO  TC_004_CheckPcStock:13 - starting test case execution
+2026-01-12 12:48:58 INFO  TC_004_CheckPcStock:14 - Capturing debug logs
+2026-01-12 12:49:01 INFO  TC_004_CheckPcStock:27 - checking pc stock
+2026-01-12 12:49:01 INFO  TC_004_CheckPcStock:39 - Testcase execution is completed
+2026-01-12 20:21:53 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml] otherwise TestNG may fail or not work as expected.
+2026-01-12 20:21:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\hp\OneDrive\Desktop\ecommerceautomation\ecommerceautomation\master.xml
+
+2026-01-12 20:22:05 INFO  TC_001_Account_Registration:12 - Starting testcase execution
+2026-01-12 20:22:05 INFO  TC_001_Account_Registration:17 - clicking on my account
+2026-01-12 20:22:06 INFO  TC_001_Account_Registration:23 - Providing customers details
+2026-01-12 20:22:07 INFO  TC_001_Account_Registration:36 - Validating expected emssages...
+2026-01-12 20:22:08 INFO  TC_001_Account_Registration:39 - clicking on submit button
+2026-01-12 20:22:09 INFO  TC_001_Account_Registration:43 - collecting the confirmation message
+2026-01-12 20:22:09 INFO  TC_001_Account_Registration:51 - ***** Finished TC001_AccountRegistrationTest *****
